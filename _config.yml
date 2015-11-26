@@ -1,7 +1,7 @@
 name: axbm
 favicon: null
-layout_spectrum: 0.9171555684879422
-typography_spectrum: 0.9826432431582361
+layout_spectrum: 0.48978
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#010101'
+    - '#eff4f7'
+    - '#aba58f'
+    - '#3f3826'
+    - '#00558c'
   brandStrength: 0.6465760464780033
-  lightness: 0.4709109414834529
-  saturation: 0.5737822318915278
+  lightness: 0.375
+  saturation: 0.4375
   rhythmicContrast: 0.9658448579721153
 purpose: []
