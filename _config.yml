@@ -1,6 +1,6 @@
 name: axbm
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.5
 typography_spectrum: 0.75
 title: 'Emerging Technologies in Law Libraries & Legal Education'
 cta:
@@ -23,7 +23,7 @@ color:
     - '#3f3826'
     - '#00558c'
   brandStrength: 0.6465760464780033
-  lightness: 0.375
-  saturation: 0.4375
-  rhythmicContrast: 0.9658448579721153
+  lightness: 1
+  saturation: 0.1875
+  rhythmicContrast: 0.25
 purpose: []
